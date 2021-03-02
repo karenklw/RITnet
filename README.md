@@ -1,4 +1,6 @@
-[RITnet_ICCV.pdf](https://github.com/AayushKrChaudhary/RITnet/files/6071751/RITnet_ICCV.pdf)
+
+<img width="1630" alt="Screen Shot 2021-03-02 at 4 00 04 PM" src="https://user-images.githubusercontent.com/36228359/109714444-6cfcea00-7b70-11eb-9398-8cc9f9dfaa6f.png">
+
 
 If you use this code, please cite:
 ```
