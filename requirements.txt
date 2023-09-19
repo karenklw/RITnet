@@ -3,7 +3,7 @@ tqdm
 matplotlib
 numpy
 torch 
-PIL   
+Pillow   
 cv2   
 argparse  
 pprint 

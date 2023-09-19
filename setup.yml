@@ -1,0 +1,10 @@
+name: ritnet
+channels:
+  - anaconda
+  - menpo
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.0
+  - pip
